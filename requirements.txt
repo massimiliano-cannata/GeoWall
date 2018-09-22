@@ -1,0 +1,6 @@
+# pip install -r /path/to/requirements.txt
+
+Tornado>=5.0.2
+pywebview>=2.0.3
+jinja2>=2.10
+websocket-client>=0.53
